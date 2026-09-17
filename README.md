@@ -9,5 +9,5 @@ I'm SOUMYA,aka Shadow-Arc01
 ### 💻 Languages Used in My Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Arc01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://deno-github-stats.vercel.app/api/top-langs?username=Shadow-Arc01&layout=compact" alt="Top Languages" />
 </p>
