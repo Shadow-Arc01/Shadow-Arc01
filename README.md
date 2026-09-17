@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**Shadow-Arc01/Shadow-Arc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm SOUMYA,aka Shadow-Arc01 
 
 🌱 **Currently learning Android & App Development**  
 🚀 Building modern, clean, and interactive mobile apps with Kotlin & Android Studio.
@@ -13,4 +11,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow-Arc01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
--->
