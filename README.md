@@ -1,4 +1,4 @@
-<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> ,I'm SOUMYA, aka Shadow-Arc01 
+<h2>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> ,I'm SOUMYA, aka Shadow-Arc01</h2> 
 
 - Sincere Learner , Interested in Android development,App Development, Software tools and Ai stuff
 - Languages i know Java,python,Shell programming.(Learning More)
