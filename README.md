@@ -1,7 +1,8 @@
 ## Hi there 👋
-I'm SOUMYA,aka Shadow-Arc01 
+I'm SOUMYA, aka Shadow-Arc01 
 
 🌱 **Currently learning Android & App Development**  
+
 🚀 Building modern, clean, and interactive mobile apps with Kotlin & Android Studio.
 
 ---
