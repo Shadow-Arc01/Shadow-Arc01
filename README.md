@@ -8,7 +8,7 @@
  <p><img align="center" src="https://github-stats-extended.vercel.app/api?username=ShadowArX&custom_title=ShadowArX%20stats&show_icons=true&include_all_commits=true&theme=shadow_blue" alt="ShadowArX" /></p>
  <br>
 
-<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ShadowArX&layout=compact&langs_count=4&theme=shadow_blue" alt="ShadowArX" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ShadowArX&layout=compact&langs_count=6&theme=shadow_blue" alt="ShadowArX" /></p>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=ShadowArX&style=flat-square"/>
