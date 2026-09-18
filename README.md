@@ -5,11 +5,11 @@
 - 📱 Actively maintaining Roms for Realme C2 (Android 12, Android 14)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shadow-Arc01&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShadowArX&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shadow-Arc01&layout=compact&langs_count=8&theme=nightowl"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShadowArX&layout=compact&langs_count=8&theme=nightowl"/>
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=Shadow-Arc01&style=flat-square"/>
+ <img src="https://komarev.com/ghpvc/?username=ShadowArX&style=flat-square"/>
 </p>
